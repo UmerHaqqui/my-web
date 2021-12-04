@@ -1,0 +1,10 @@
+### 
+
+GET http://localhost/wordpress/wp-json/wp/v2/posts
+
+
+
+###
+
+GET http://localhost/wordpress/wp-json/wp/v2/posts/32
+
